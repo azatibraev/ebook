@@ -10,9 +10,12 @@ public class booktest {
 
         System.out.println("Nurzhan");
         System.out.println("Nurzhan");
+<<<<<<< HEAD
         System.out.println("Nurzhan");
         System.out.println("Nurzhan");
         System.out.println("Nurzhan");
 
+=======
+>>>>>>> origin/nurzhan
     }
 }
